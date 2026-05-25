@@ -1,0 +1,237 @@
+[
+  {
+    "jp": "保護具",
+    "reading": "ほごぐ",
+    "id": "Alat pelindung diri (APD)"
+  },
+  {
+    "jp": "ヘルメット",
+    "reading": "へるめっと",
+    "id": "Helm keselamatan"
+  },
+  {
+    "jp": "作業服",
+    "reading": "さぎょうふく",
+    "id": "Pakaian kerja"
+  },
+  {
+    "jp": "手袋",
+    "reading": "てぶくろ",
+    "id": "Sarung tangan"
+  },
+  {
+    "jp": "安全靴",
+    "reading": "あんぜんぐつ",
+    "id": "Sepatu keselamatan"
+  },
+  {
+    "jp": "耳栓",
+    "reading": "みみせん",
+    "id": "Penyumbat telinga"
+  },
+  {
+    "jp": "帽子",
+    "reading": "ぼうし",
+    "id": "Topi / penutup kepala"
+  },
+  {
+    "jp": "マスク",
+    "reading": "ますく",
+    "id": "Masker"
+  },
+  {
+    "jp": "ヘアーネット",
+    "reading": "へあーねっと",
+    "id": "Jaring rambut"
+  },
+  {
+    "jp": "ファスナー",
+    "reading": "ふぁすなー",
+    "id": "Resleting"
+  },
+  {
+    "jp": "保護眼鏡",
+    "reading": "ほごめがね",
+    "id": "Kacamata pelindung"
+  },
+  {
+    "jp": "耐熱エプロン",
+    "reading": "たいねつえぷろん",
+    "id": "Celemek tahan panas"
+  },
+  {
+    "jp": "ゴム手袋",
+    "reading": "ごむてぶくろ",
+    "id": "Sarung tangan karet"
+  },
+  {
+    "jp": "ミトン手袋",
+    "reading": "みとんてぶくろ",
+    "id": "Sarung tangan oven / mitten"
+  },
+  {
+    "jp": "メクセル手袋",
+    "reading": "めくせるてぶくろ",
+    "id": "Sarung tangan anti-iris"
+  },
+  {
+    "jp": "くさり手袋",
+    "reading": "くさりてぶくろ",
+    "id": "Sarung tangan rantai baja"
+  },
+  {
+    "jp": "カバー付き長靴",
+    "reading": "かばーつきながぐつ",
+    "id": "Sepatu boot berpelindung"
+  },
+  {
+    "jp": "ゴーグル",
+    "reading": "ごーぐる",
+    "id": "Gogel pelindung mata"
+  },
+  {
+    "jp": "安全帯",
+    "reading": "あんぜんたい",
+    "id": "Sabuk keselamatan / harness"
+  },
+  {
+    "jp": "防塵マスク",
+    "reading": "ぼうじんますく",
+    "id": "Masker anti debu"
+  },
+  {
+    "jp": "作業服の正しい着用",
+    "reading": "さぎょうふくのただしいちゃくよう",
+    "id": "Cara memakai pakaian kerja yang benar"
+  },
+  {
+    "jp": "帽子を深くかぶる",
+    "reading": "ぼうしをふかくかぶる",
+    "id": "Memakai topi hingga dalam"
+  },
+  {
+    "jp": "髪の毛がはみだしていない",
+    "reading": "かみのけがはみだしていない",
+    "id": "Rambut tidak keluar dari topi"
+  },
+  {
+    "jp": "鼻からあごまでマスクがかかっている",
+    "reading": "はなからあごまでますくがかかっている",
+    "id": "Masker menutupi dari hidung hingga dagu"
+  },
+  {
+    "jp": "帽子を上着の中に入れている",
+    "reading": "ぼうしをうわぎのなかにいれている",
+    "id": "Baju pelindung dimasukkan ke dalam pakaian kerja"
+  },
+  {
+    "jp": "ファスナーは上まで上がっている",
+    "reading": "ふぁすなーはうえまであがっている",
+    "id": "Resleting terkunci penuh ke atas"
+  },
+  {
+    "jp": "正しい手袋の着け方",
+    "reading": "ただしいてぶくろのつけかた",
+    "id": "Cara memakai sarung tangan yang benar"
+  },
+  {
+    "jp": "手の大きさに合っている",
+    "reading": "てのおおきさにあっている",
+    "id": "Sarung tangan sesuai ukuran tangan"
+  },
+  {
+    "jp": "破れや汚れがある",
+    "reading": "やぶれやよごれがある",
+    "id": "Terdapat robek atau kotor"
+  },
+  {
+    "jp": "耐切創手袋",
+    "reading": "たいせっそうてぶくろ",
+    "id": "Sarung tangan anti-iris / cut-resistant"
+  },
+  {
+    "jp": "安全保護具の正しい着用",
+    "reading": "あんぜんほごぐのただしいちゃくよう",
+    "id": "Cara memakai APD yang benar"
+  },
+  {
+    "jp": "インナー手袋",
+    "reading": "いんなーてぶくろ",
+    "id": "Sarung tangan dalam (liner glove)"
+  },
+  {
+    "jp": "二重手袋",
+    "reading": "にじゅうてぶくろ",
+    "id": "Sarung tangan dobel / dua lapis"
+  },
+  {
+    "jp": "アームカバー",
+    "reading": "あーむかばー",
+    "id": "Penutup lengan / arm cover"
+  },
+  {
+    "jp": "フェイスシールド",
+    "reading": "ふぇいすしーるど",
+    "id": "Pelindung wajah / face shield"
+  },
+  {
+    "jp": "防護眼鏡",
+    "reading": "ぼうごめがね",
+    "id": "Kacamata pelindung / safety goggles"
+  },
+  {
+    "jp": "作業用エプロン",
+    "reading": "さぎょうようえぷろん",
+    "id": "Celemek kerja"
+  },
+  {
+    "jp": "防水エプロン",
+    "reading": "ぼうすいえぷろん",
+    "id": "Celemek anti air / waterproof apron"
+  },
+  {
+    "jp": "安全靴の着用",
+    "reading": "あんぜんぐつのちゃくよう",
+    "id": "Pemakaian sepatu keselamatan"
+  },
+  {
+    "jp": "スリッポン安全靴",
+    "reading": "すりっぽんあんぜんぐつ",
+    "id": "Sepatu keselamatan slip-on"
+  },
+  {
+    "jp": "防音保護具",
+    "reading": "ぼうおんほごぐ",
+    "id": "APD pelindung pendengaran"
+  },
+  {
+    "jp": "防毒マスク",
+    "reading": "ぼうどくますく",
+    "id": "Masker anti gas beracun"
+  },
+  {
+    "jp": "送気マスク",
+    "reading": "そうきますく",
+    "id": "Masker dengan suplai udara"
+  },
+  {
+    "jp": "防護服の着用",
+    "reading": "ぼうごふくのちゃくよう",
+    "id": "Pemakaian pakaian pelindung"
+  },
+  {
+    "jp": "使い捨てマスク",
+    "reading": "つかいすてますく",
+    "id": "Masker sekali pakai"
+  },
+  {
+    "jp": "作業帽",
+    "reading": "さぎょうぼう",
+    "id": "Topi kerja"
+  },
+  {
+    "jp": "不織布キャップ",
+    "reading": "ふしょくふきゃっぷ",
+    "id": "Topi non-woven / topi pabrik"
+  }
+]
