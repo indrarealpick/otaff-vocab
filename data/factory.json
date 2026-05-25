@@ -1,0 +1,207 @@
+[
+  {
+    "jp": "施設",
+    "reading": "しせつ",
+    "id": "Fasilitas"
+  },
+  {
+    "jp": "設備",
+    "reading": "せつび",
+    "id": "Peralatan / instalasi"
+  },
+  {
+    "jp": "ゾーニング",
+    "reading": "ぞーにんぐ",
+    "id": "Zonasi area kerja"
+  },
+  {
+    "jp": "汚染作業区域",
+    "reading": "おせんさぎょうくいき",
+    "id": "Zona kerja terkontaminasi"
+  },
+  {
+    "jp": "準清潔作業区域",
+    "reading": "じゅんせいけつさぎょうくいき",
+    "id": "Zona kerja semi-bersih"
+  },
+  {
+    "jp": "清潔作業区域",
+    "reading": "せいけつさぎょうくいき",
+    "id": "Zona kerja bersih"
+  },
+  {
+    "jp": "エアーシャワー",
+    "reading": "えあーしゃわー",
+    "id": "Shower udara (air shower)"
+  },
+  {
+    "jp": "通路",
+    "reading": "つうろ",
+    "id": "Lorong / jalur lintasan"
+  },
+  {
+    "jp": "階段",
+    "reading": "かいだん",
+    "id": "Tangga"
+  },
+  {
+    "jp": "工場",
+    "reading": "こうじょう",
+    "id": "Pabrik"
+  },
+  {
+    "jp": "職場",
+    "reading": "しょくば",
+    "id": "Tempat kerja"
+  },
+  {
+    "jp": "作業場",
+    "reading": "さぎょうじょう",
+    "id": "Area kerja"
+  },
+  {
+    "jp": "床",
+    "reading": "ゆか",
+    "id": "Lantai"
+  },
+  {
+    "jp": "壁",
+    "reading": "かべ",
+    "id": "Dinding"
+  },
+  {
+    "jp": "天井",
+    "reading": "てんじょう",
+    "id": "Langit-langit / plafon"
+  },
+  {
+    "jp": "排水",
+    "reading": "はいすい",
+    "id": "Drainase / pembuangan air"
+  },
+  {
+    "jp": "換気",
+    "reading": "かんき",
+    "id": "Ventilasi udara"
+  },
+  {
+    "jp": "照明",
+    "reading": "しょうめい",
+    "id": "Pencahayaan"
+  },
+  {
+    "jp": "更衣室",
+    "reading": "こういしつ",
+    "id": "Ruang ganti pakaian"
+  },
+  {
+    "jp": "タンク",
+    "reading": "たんく",
+    "id": "Tangki"
+  },
+  {
+    "jp": "工場レイアウト",
+    "reading": "こうじょうれいあうと",
+    "id": "Tata letak pabrik"
+  },
+  {
+    "jp": "動線",
+    "reading": "どうせん",
+    "id": "Alur pergerakan / traffic flow"
+  },
+  {
+    "jp": "原材料の動線",
+    "reading": "げんざいりょうのどうせん",
+    "id": "Alur pergerakan bahan baku"
+  },
+  {
+    "jp": "人の動線",
+    "reading": "ひとのどうせん",
+    "id": "Alur pergerakan orang / pekerja"
+  },
+  {
+    "jp": "廃棄物の動線",
+    "reading": "はいきぶつのどうせん",
+    "id": "Alur pembuangan limbah"
+  },
+  {
+    "jp": "一方通行",
+    "reading": "いっぽうつうこう",
+    "id": "Satu arah / one-way traffic"
+  },
+  {
+    "jp": "前室",
+    "reading": "ぜんしつ",
+    "id": "Ruang antara / anteroom"
+  },
+  {
+    "jp": "前室の機能",
+    "reading": "ぜんしつのきのう",
+    "id": "Fungsi ruang antara"
+  },
+  {
+    "jp": "靴の履き替え",
+    "reading": "くつのはきかえ",
+    "id": "Pergantian alas kaki saat masuk area"
+  },
+  {
+    "jp": "専用の履き物",
+    "reading": "せんようのはきもの",
+    "id": "Alas kaki khusus area kerja"
+  },
+  {
+    "jp": "作業区域の表示",
+    "reading": "さぎょうくいきのひょうじ",
+    "id": "Penandaan zona kerja"
+  },
+  {
+    "jp": "色分け管理",
+    "reading": "いろわけかんり",
+    "id": "Manajemen dengan kode warna"
+  },
+  {
+    "jp": "ゴミ置き場",
+    "reading": "ごみおきば",
+    "id": "Tempat pembuangan sampah"
+  },
+  {
+    "jp": "廃棄物置き場",
+    "reading": "はいきぶつおきば",
+    "id": "Tempat penampungan limbah"
+  },
+  {
+    "jp": "危険物保管庫",
+    "reading": "きけんぶつほかんこ",
+    "id": "Lemari / ruang penyimpanan bahan berbahaya"
+  },
+  {
+    "jp": "機械室",
+    "reading": "きかいしつ",
+    "id": "Ruang mesin"
+  },
+  {
+    "jp": "冷凍室",
+    "reading": "れいとうしつ",
+    "id": "Ruang pembekuan / freezer room"
+  },
+  {
+    "jp": "冷蔵室",
+    "reading": "れいぞうしつ",
+    "id": "Ruang pendingin / chiller room"
+  },
+  {
+    "jp": "準備室",
+    "reading": "じゅんびしつ",
+    "id": "Ruang persiapan"
+  },
+  {
+    "jp": "作業台",
+    "reading": "さぎょうだい",
+    "id": "Meja kerja / work table"
+  },
+  {
+    "jp": "流し台",
+    "reading": "ながしだい",
+    "id": "Bak cuci / wastafel dapur"
+  }
+]
