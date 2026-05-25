@@ -1,0 +1,202 @@
+[
+  {
+    "jp": "器具",
+    "reading": "きぐ",
+    "id": "Alat / perkakas"
+  },
+  {
+    "jp": "粘着ローラー",
+    "reading": "ねんちゃくろーらー",
+    "id": "Roller perekat (lint roller)"
+  },
+  {
+    "jp": "温度計",
+    "reading": "おんどけい",
+    "id": "Termometer"
+  },
+  {
+    "jp": "まな板",
+    "reading": "まないた",
+    "id": "Talenan"
+  },
+  {
+    "jp": "包丁",
+    "reading": "ほうちょう",
+    "id": "Pisau dapur"
+  },
+  {
+    "jp": "カッター",
+    "reading": "かったー",
+    "id": "Alat pemotong"
+  },
+  {
+    "jp": "スライサー",
+    "reading": "すらいさー",
+    "id": "Alat pengiris"
+  },
+  {
+    "jp": "刃",
+    "reading": "は",
+    "id": "Bilah / mata pisau"
+  },
+  {
+    "jp": "台車",
+    "reading": "だいしゃ",
+    "id": "Troli dorong"
+  },
+  {
+    "jp": "鍋",
+    "reading": "なべ",
+    "id": "Panci"
+  },
+  {
+    "jp": "釜",
+    "reading": "かま",
+    "id": "Dandang / kuali besar"
+  },
+  {
+    "jp": "ブラシ",
+    "reading": "ぶらし",
+    "id": "Sikat"
+  },
+  {
+    "jp": "スポンジ",
+    "reading": "すぽんじ",
+    "id": "Spons"
+  },
+  {
+    "jp": "バケツ",
+    "reading": "ばけつ",
+    "id": "Ember"
+  },
+  {
+    "jp": "ホース",
+    "reading": "ほーす",
+    "id": "Selang air"
+  },
+  {
+    "jp": "重量計",
+    "reading": "じゅうりょうけい",
+    "id": "Timbangan"
+  },
+  {
+    "jp": "タイマー",
+    "reading": "たいまー",
+    "id": "Timer / pewaktu"
+  },
+  {
+    "jp": "脚立",
+    "reading": "きゃたつ",
+    "id": "Tangga lipat"
+  },
+  {
+    "jp": "圧力計",
+    "reading": "あつりょくけい",
+    "id": "Manometer / pengukur tekanan"
+  },
+  {
+    "jp": "ドラム缶",
+    "reading": "どらむかん",
+    "id": "Drum / tong besi"
+  },
+  {
+    "jp": "ステンレス製器具",
+    "reading": "すてんれすせいきぐ",
+    "id": "Alat berbahan stainless steel"
+  },
+  {
+    "jp": "プラスチック製器具",
+    "reading": "ぷらすちっくせいきぐ",
+    "id": "Alat berbahan plastik"
+  },
+  {
+    "jp": "木製器具",
+    "reading": "もくせいきぐ",
+    "id": "Alat berbahan kayu"
+  },
+  {
+    "jp": "計量カップ",
+    "reading": "けいりょうかっぷ",
+    "id": "Gelas ukur"
+  },
+  {
+    "jp": "計量スプーン",
+    "reading": "けいりょうすぷーん",
+    "id": "Sendok ukur"
+  },
+  {
+    "jp": "菜箸",
+    "reading": "さいばし",
+    "id": "Sumpit masak / cooking chopsticks"
+  },
+  {
+    "jp": "お玉",
+    "reading": "おたま",
+    "id": "Sendok sayur / ladle"
+  },
+  {
+    "jp": "フライ返し",
+    "reading": "ふらいがえし",
+    "id": "Spatula / turner"
+  },
+  {
+    "jp": "泡立て器",
+    "reading": "あわだてき",
+    "id": "Kocokan / whisk"
+  },
+  {
+    "jp": "すりこぎ",
+    "reading": "すりこぎ",
+    "id": "Alu / muddler untuk menghaluskan"
+  },
+  {
+    "jp": "おろし金",
+    "reading": "おろしがね",
+    "id": "Parutan / grater"
+  },
+  {
+    "jp": "こし器",
+    "reading": "こしき",
+    "id": "Saringan / strainer"
+  },
+  {
+    "jp": "ざる",
+    "reading": "ざる",
+    "id": "Keranjang saringan / colander"
+  },
+  {
+    "jp": "ボウル",
+    "reading": "ぼうる",
+    "id": "Mangkuk / mixing bowl"
+  },
+  {
+    "jp": "バット",
+    "reading": "ばっと",
+    "id": "Nampan stainless / gastronorm pan"
+  },
+  {
+    "jp": "トング",
+    "reading": "とんぐ",
+    "id": "Penjepit makanan / tong"
+  },
+  {
+    "jp": "ラップ",
+    "reading": "らっぷ",
+    "id": "Plastik wrap / cling film"
+  },
+  {
+    "jp": "アルミホイル",
+    "reading": "あるみほいる",
+    "id": "Aluminium foil"
+  },
+  {
+    "jp": "クッキングシート",
+    "reading": "くっきんぐしーと",
+    "id": "Kertas roti / baking paper"
+  },
+  {
+    "jp": "食品用トレー",
+    "reading": "しょくひんようとれー",
+    "id": "Nampan makanan"
+  }
+]
