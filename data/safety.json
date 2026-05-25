@@ -1,0 +1,622 @@
+[
+  {
+    "jp": "労働安全",
+    "reading": "ろうどうあんぜん",
+    "id": "Keselamatan kerja"
+  },
+  {
+    "jp": "労働災害",
+    "reading": "ろうどうさいがい",
+    "id": "Kecelakaan kerja"
+  },
+  {
+    "jp": "転倒",
+    "reading": "てんとう",
+    "id": "Tergelincir / terjatuh"
+  },
+  {
+    "jp": "巻き込まれ",
+    "reading": "まきこまれ",
+    "id": "Terseret / tergulung mesin"
+  },
+  {
+    "jp": "切れ",
+    "reading": "きれ",
+    "id": "Tergores / terpotong"
+  },
+  {
+    "jp": "落ちる",
+    "reading": "おちる",
+    "id": "Jatuh"
+  },
+  {
+    "jp": "やけど",
+    "reading": "やけど",
+    "id": "Luka bakar"
+  },
+  {
+    "jp": "腰痛",
+    "reading": "ようつう",
+    "id": "Nyeri pinggang"
+  },
+  {
+    "jp": "熱中症",
+    "reading": "ねっちゅうしょう",
+    "id": "Serangan panas (heat stroke)"
+  },
+  {
+    "jp": "激突",
+    "reading": "げきとつ",
+    "id": "Tabrakan keras"
+  },
+  {
+    "jp": "傷",
+    "reading": "きず",
+    "id": "Luka"
+  },
+  {
+    "jp": "ヒヤリ・ハット",
+    "reading": "ひやりはっと",
+    "id": "Nyaris celaka (near miss)"
+  },
+  {
+    "jp": "ヒヤリ・ハット活動",
+    "reading": "ひやりはっとかつどう",
+    "id": "Kegiatan pelaporan nyaris celaka"
+  },
+  {
+    "jp": "ハインリッヒの法則",
+    "reading": "はいんりっひのほうそく",
+    "id": "Hukum Heinrich (1:29:300)"
+  },
+  {
+    "jp": "危険予知訓練",
+    "reading": "きけんよちくんれん",
+    "id": "Pelatihan prediksi bahaya (KYT)"
+  },
+  {
+    "jp": "指差呼称",
+    "reading": "しさこしょう",
+    "id": "Penunjukan dan penyebutan (safety check)"
+  },
+  {
+    "jp": "安全装置",
+    "reading": "あんぜんそうち",
+    "id": "Perangkat keselamatan mesin"
+  },
+  {
+    "jp": "フールプルーフ",
+    "reading": "ふーるぷるーふ",
+    "id": "Fool-proof (anti salah)"
+  },
+  {
+    "jp": "フェールセーフ",
+    "reading": "ふぇーるせーふ",
+    "id": "Fail-safe (aman saat gagal)"
+  },
+  {
+    "jp": "ロックアウト",
+    "reading": "ろっくあうと",
+    "id": "Lockout (penguncian sumber energi)"
+  },
+  {
+    "jp": "タグアウト",
+    "reading": "たぐあうと",
+    "id": "Tagout (penandaan saat lockout)"
+  },
+  {
+    "jp": "高所作業",
+    "reading": "こうしょさぎょう",
+    "id": "Pekerjaan di ketinggian"
+  },
+  {
+    "jp": "転落",
+    "reading": "てんらく",
+    "id": "Jatuh dari ketinggian"
+  },
+  {
+    "jp": "滑る",
+    "reading": "すべる",
+    "id": "Tergelincir"
+  },
+  {
+    "jp": "つまずく",
+    "reading": "つまずく",
+    "id": "Tersandung"
+  },
+  {
+    "jp": "重量物",
+    "reading": "じゅうりょうぶつ",
+    "id": "Barang berat"
+  },
+  {
+    "jp": "感電",
+    "reading": "かんでん",
+    "id": "Tersengat listrik"
+  },
+  {
+    "jp": "騒音",
+    "reading": "そうおん",
+    "id": "Kebisingan"
+  },
+  {
+    "jp": "防音",
+    "reading": "ぼうおん",
+    "id": "Peredam suara / anti bising"
+  },
+  {
+    "jp": "頭痛",
+    "reading": "ずつう",
+    "id": "Sakit kepala"
+  },
+  {
+    "jp": "崩れる",
+    "reading": "くずれる",
+    "id": "Runtuh / ambruk"
+  },
+  {
+    "jp": "倒れる",
+    "reading": "たおれる",
+    "id": "Jatuh / roboh"
+  },
+  {
+    "jp": "落下",
+    "reading": "らっか",
+    "id": "Jatuhnya benda dari atas"
+  },
+  {
+    "jp": "衝突",
+    "reading": "しょうとつ",
+    "id": "Tabrakan"
+  },
+  {
+    "jp": "刺さる",
+    "reading": "ささる",
+    "id": "Tertusuk"
+  },
+  {
+    "jp": "折れる",
+    "reading": "おれる",
+    "id": "Patah / terputus"
+  },
+  {
+    "jp": "割れる",
+    "reading": "われる",
+    "id": "Pecah / retak"
+  },
+  {
+    "jp": "漏電",
+    "reading": "ろうでん",
+    "id": "Kebocoran arus listrik"
+  },
+  {
+    "jp": "ヒューマンエラー",
+    "reading": "ひゅーまんえらー",
+    "id": "Kesalahan manusia (human error)"
+  },
+  {
+    "jp": "不注意",
+    "reading": "ふちゅうい",
+    "id": "Kecerobohan / kelalaian"
+  },
+  {
+    "jp": "疲労",
+    "reading": "ひろう",
+    "id": "Kelelahan"
+  },
+  {
+    "jp": "安全意識",
+    "reading": "あんぜんいしき",
+    "id": "Kesadaran keselamatan"
+  },
+  {
+    "jp": "リスク",
+    "reading": "りすく",
+    "id": "Risiko"
+  },
+  {
+    "jp": "リスク評価",
+    "reading": "りすくひょうか",
+    "id": "Penilaian risiko"
+  },
+  {
+    "jp": "確認不足",
+    "reading": "かくにんぶそく",
+    "id": "Kurang verifikasi / pengecekan"
+  },
+  {
+    "jp": "知識不足",
+    "reading": "ちしきぶそく",
+    "id": "Kurang pengetahuan"
+  },
+  {
+    "jp": "かもしれない",
+    "reading": "かもしれない",
+    "id": "Mungkin saja / bisa jadi"
+  },
+  {
+    "jp": "ぶつかる",
+    "reading": "ぶつかる",
+    "id": "Menabrak / membentur"
+  },
+  {
+    "jp": "こぼれる",
+    "reading": "こぼれる",
+    "id": "Tumpah"
+  },
+  {
+    "jp": "ゆっくり",
+    "reading": "ゆっくり",
+    "id": "Perlahan-lahan / pelan-pelan"
+  },
+  {
+    "jp": "落ち着いて",
+    "reading": "おちついて",
+    "id": "Dengan tenang / jangan panik"
+  },
+  {
+    "jp": "血圧",
+    "reading": "けつあつ",
+    "id": "Tekanan darah"
+  },
+  {
+    "jp": "呼吸",
+    "reading": "こきゅう",
+    "id": "Pernapasan"
+  },
+  {
+    "jp": "腕",
+    "reading": "うで",
+    "id": "Lengan"
+  },
+  {
+    "jp": "指",
+    "reading": "ゆび",
+    "id": "Jari tangan"
+  },
+  {
+    "jp": "腰",
+    "reading": "こし",
+    "id": "Pinggang"
+  },
+  {
+    "jp": "膝",
+    "reading": "ひざ",
+    "id": "Lutut"
+  },
+  {
+    "jp": "有害物",
+    "reading": "ゆうがいぶつ",
+    "id": "Zat berbahaya / bahan beracun"
+  },
+  {
+    "jp": "眠気",
+    "reading": "ねむけ",
+    "id": "Rasa kantuk"
+  },
+  {
+    "jp": "集中力",
+    "reading": "しゅうちゅうりょく",
+    "id": "Konsentrasi / daya fokus"
+  },
+  {
+    "jp": "事故",
+    "reading": "じこ",
+    "id": "Kecelakaan"
+  },
+  {
+    "jp": "被害",
+    "reading": "ひがい",
+    "id": "Kerusakan / kerugian akibat insiden"
+  },
+  {
+    "jp": "労働災害の発生状況",
+    "reading": "ろうどうさいがいのはっせいじょうきょう",
+    "id": "Kondisi / situasi terjadinya kecelakaan kerja"
+  },
+  {
+    "jp": "死傷災害",
+    "reading": "ししょうさいがい",
+    "id": "Kecelakaan dengan korban jiwa atau luka"
+  },
+  {
+    "jp": "事故の型別",
+    "reading": "じこのかたべつ",
+    "id": "Klasifikasi jenis kecelakaan"
+  },
+  {
+    "jp": "経験年数",
+    "reading": "けいけんねんすう",
+    "id": "Jumlah tahun pengalaman kerja"
+  },
+  {
+    "jp": "ベテラン作業者",
+    "reading": "べてらんさぎょうしゃ",
+    "id": "Pekerja berpengalaman / senior"
+  },
+  {
+    "jp": "新人作業者",
+    "reading": "しんじんさぎょうしゃ",
+    "id": "Pekerja baru / junior"
+  },
+  {
+    "jp": "危険に気がつく力",
+    "reading": "きけんにきがつくちから",
+    "id": "Kemampuan mendeteksi bahaya"
+  },
+  {
+    "jp": "安全帯の着用",
+    "reading": "あんぜんたいのちゃくよう",
+    "id": "Pemakaian sabuk keselamatan / harness"
+  },
+  {
+    "jp": "転倒災害",
+    "reading": "てんとうさいがい",
+    "id": "Kecelakaan akibat terjatuh / tergelincir"
+  },
+  {
+    "jp": "はさまれ・巻き込まれ災害",
+    "reading": "はさまれ・まきこまれさいがい",
+    "id": "Kecelakaan terjepit / terseret mesin"
+  },
+  {
+    "jp": "切れ・こすれ災害",
+    "reading": "きれ・こすれさいがい",
+    "id": "Kecelakaan tergores / terpotong"
+  },
+  {
+    "jp": "落下災害",
+    "reading": "らっかさいがい",
+    "id": "Kecelakaan akibat benda jatuh"
+  },
+  {
+    "jp": "やけど災害",
+    "reading": "やけどさいがい",
+    "id": "Kecelakaan luka bakar"
+  },
+  {
+    "jp": "腰痛災害",
+    "reading": "ようつうさいがい",
+    "id": "Kecelakaan nyeri pinggang"
+  },
+  {
+    "jp": "熱中症災害",
+    "reading": "ねっちゅうしょうさいがい",
+    "id": "Kecelakaan serangan panas"
+  },
+  {
+    "jp": "激突災害",
+    "reading": "げきとつさいがい",
+    "id": "Kecelakaan akibat tabrakan keras"
+  },
+  {
+    "jp": "ヒヤリ・ハットの事例",
+    "reading": "ひやりはっとのじれい",
+    "id": "Contoh kasus nyaris celaka"
+  },
+  {
+    "jp": "災害の予防",
+    "reading": "さいがいのよぼう",
+    "id": "Pencegahan kecelakaan"
+  },
+  {
+    "jp": "事例を学ぶ",
+    "reading": "じれいをまなぶ",
+    "id": "Belajar dari contoh kasus"
+  },
+  {
+    "jp": "社内の事例",
+    "reading": "しゃないのじれい",
+    "id": "Kasus kecelakaan dalam perusahaan"
+  },
+  {
+    "jp": "社外の事例",
+    "reading": "しゃがいのじれい",
+    "id": "Kasus kecelakaan di luar perusahaan"
+  },
+  {
+    "jp": "ハインリッヒの法則1対29対300",
+    "reading": "はいんりっひのほうそくいちたいにじゅうきゅうたいさんびゃく",
+    "id": "Hukum Heinrich 1:29:300"
+  },
+  {
+    "jp": "重い災害",
+    "reading": "おもいさいがい",
+    "id": "Kecelakaan berat"
+  },
+  {
+    "jp": "軽いケガ",
+    "reading": "かるいけが",
+    "id": "Luka ringan"
+  },
+  {
+    "jp": "人はかもしれない",
+    "reading": "ひとはかもしれない",
+    "id": "Kemungkinan yang bisa terjadi pada manusia"
+  },
+  {
+    "jp": "モノはかもしれない",
+    "reading": "ものはかもしれない",
+    "id": "Kemungkinan yang bisa terjadi pada benda"
+  },
+  {
+    "jp": "人が足りないときは一人で作業しない",
+    "reading": "ひとがたりないときはひとりでさぎょうしない",
+    "id": "Jangan bekerja sendiri saat kekurangan orang"
+  },
+  {
+    "jp": "安全管理",
+    "reading": "あんぜんかんり",
+    "id": "Manajemen keselamatan kerja"
+  },
+  {
+    "jp": "安全教育",
+    "reading": "あんぜんきょういく",
+    "id": "Pendidikan keselamatan kerja"
+  },
+  {
+    "jp": "安全パトロール",
+    "reading": "あんぜんぱとろーる",
+    "id": "Patroli keselamatan"
+  },
+  {
+    "jp": "安全活動",
+    "reading": "あんぜんかつどう",
+    "id": "Kegiatan keselamatan"
+  },
+  {
+    "jp": "安全目標",
+    "reading": "あんぜんもくひょう",
+    "id": "Target keselamatan"
+  },
+  {
+    "jp": "無災害記録",
+    "reading": "むさいがいきろく",
+    "id": "Rekaman zero accident"
+  },
+  {
+    "jp": "災害発生率",
+    "reading": "さいがいはっせいりつ",
+    "id": "Tingkat kejadian kecelakaan"
+  },
+  {
+    "jp": "労災申請",
+    "reading": "ろうさいしんせい",
+    "id": "Pengajuan klaim asuransi kecelakaan kerja"
+  },
+  {
+    "jp": "事故報告書",
+    "reading": "じこほうこくしょ",
+    "id": "Laporan kecelakaan tertulis"
+  },
+  {
+    "jp": "ヒヤリハット報告書",
+    "reading": "ひやりはっとほうこくしょ",
+    "id": "Laporan nyaris celaka"
+  },
+  {
+    "jp": "危険箇所",
+    "reading": "きけんかしょ",
+    "id": "Titik / lokasi berbahaya"
+  },
+  {
+    "jp": "危険源",
+    "reading": "きけんげん",
+    "id": "Sumber bahaya"
+  },
+  {
+    "jp": "不安全行動",
+    "reading": "ふあんぜんこうどう",
+    "id": "Tindakan tidak aman"
+  },
+  {
+    "jp": "不安全状態",
+    "reading": "ふあんぜんじょうたい",
+    "id": "Kondisi tidak aman"
+  },
+  {
+    "jp": "安全確認",
+    "reading": "あんぜんかくにん",
+    "id": "Konfirmasi keselamatan"
+  },
+  {
+    "jp": "相互確認",
+    "reading": "そうごかくにん",
+    "id": "Konfirmasi bersama / mutual check"
+  },
+  {
+    "jp": "声かけ",
+    "reading": "こえかけ",
+    "id": "Menyapa / mengingatkan sesama pekerja"
+  },
+  {
+    "jp": "ルールを守る",
+    "reading": "るーるをまもる",
+    "id": "Mematuhi peraturan"
+  },
+  {
+    "jp": "危険を知らせる",
+    "reading": "きけんをしらせる",
+    "id": "Memberitahu bahaya"
+  },
+  {
+    "jp": "立入禁止区域",
+    "reading": "たちいりきんしくいき",
+    "id": "Area yang dilarang dimasuki"
+  },
+  {
+    "jp": "立入制限区域",
+    "reading": "たちいりせいげんくいき",
+    "id": "Area dengan pembatasan akses"
+  },
+  {
+    "jp": "危険エリア",
+    "reading": "きけんえりあ",
+    "id": "Area berbahaya"
+  },
+  {
+    "jp": "安全エリア",
+    "reading": "あんぜんえりあ",
+    "id": "Area aman"
+  },
+  {
+    "jp": "歩行者通路",
+    "reading": "ほこうしゃつうろ",
+    "id": "Jalur pejalan kaki"
+  },
+  {
+    "jp": "車両通路",
+    "reading": "しゃりょうつうろ",
+    "id": "Jalur kendaraan"
+  },
+  {
+    "jp": "重量物の取り扱い",
+    "reading": "じゅうりょうぶつのとりあつかい",
+    "id": "Penanganan barang berat"
+  },
+  {
+    "jp": "正しい持ち上げ方",
+    "reading": "ただしいもちあげかた",
+    "id": "Cara mengangkat yang benar"
+  },
+  {
+    "jp": "腰を曲げて持ち上げない",
+    "reading": "こしをまげてもちあげない",
+    "id": "Jangan angkat dengan membungkuk pinggang"
+  },
+  {
+    "jp": "チームリフティング",
+    "reading": "ちーむりふてぃんぐ",
+    "id": "Pengangkatan bersama tim"
+  },
+  {
+    "jp": "転倒防止マット",
+    "reading": "てんとうぼうしまっと",
+    "id": "Matras anti-slip / pencegah terjatuh"
+  },
+  {
+    "jp": "滑り止め",
+    "reading": "すべりどめ",
+    "id": "Anti-slip / pengaman licin"
+  },
+  {
+    "jp": "床の水気",
+    "reading": "ゆかのみずけ",
+    "id": "Kelembaban / air di lantai"
+  },
+  {
+    "jp": "濡れた床",
+    "reading": "ぬれたゆか",
+    "id": "Lantai basah"
+  },
+  {
+    "jp": "油の床への飛び散り",
+    "reading": "あぶらのゆかへのとびちり",
+    "id": "Percikan minyak ke lantai"
+  },
+  {
+    "jp": "床の清掃",
+    "reading": "ゆかのせいそう",
+    "id": "Pembersihan lantai"
+  }
+]
