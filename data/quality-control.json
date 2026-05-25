@@ -1,0 +1,262 @@
+[
+  {
+    "jp": "異物",
+    "reading": "いぶつ",
+    "id": "Benda asing"
+  },
+  {
+    "jp": "金属",
+    "reading": "きんぞく",
+    "id": "Logam"
+  },
+  {
+    "jp": "微生物検査",
+    "reading": "びせいぶつけんさ",
+    "id": "Pemeriksaan mikrobiologi"
+  },
+  {
+    "jp": "製品サンプル",
+    "reading": "せいひんさんぷる",
+    "id": "Sampel produk"
+  },
+  {
+    "jp": "クレーム",
+    "reading": "くれーむ",
+    "id": "Keluhan pelanggan"
+  },
+  {
+    "jp": "回収",
+    "reading": "かいしゅう",
+    "id": "Penarikan produk (recall)"
+  },
+  {
+    "jp": "トレーサビリティ",
+    "reading": "とれーさびりてぃ",
+    "id": "Keterlacakan produk"
+  },
+  {
+    "jp": "ロット番号",
+    "reading": "ろっとばんごう",
+    "id": "Nomor lot produksi"
+  },
+  {
+    "jp": "許容範囲",
+    "reading": "きょようはんい",
+    "id": "Batas yang diizinkan / toleransi"
+  },
+  {
+    "jp": "上限",
+    "reading": "じょうげん",
+    "id": "Batas atas"
+  },
+  {
+    "jp": "下限",
+    "reading": "かげん",
+    "id": "Batas bawah"
+  },
+  {
+    "jp": "規格",
+    "reading": "きかく",
+    "id": "Spesifikasi / standar produk"
+  },
+  {
+    "jp": "品質",
+    "reading": "ひんしつ",
+    "id": "Kualitas"
+  },
+  {
+    "jp": "検査",
+    "reading": "けんさ",
+    "id": "Inspeksi / pemeriksaan"
+  },
+  {
+    "jp": "合格",
+    "reading": "ごうかく",
+    "id": "Lolos / lulus standar"
+  },
+  {
+    "jp": "不良品",
+    "reading": "ふりょうひん",
+    "id": "Produk cacat / reject"
+  },
+  {
+    "jp": "抜き取り検査",
+    "reading": "ぬきとりけんさ",
+    "id": "Pemeriksaan sampel acak"
+  },
+  {
+    "jp": "全数検査",
+    "reading": "ぜんすうけんさ",
+    "id": "Pemeriksaan 100% seluruh produk"
+  },
+  {
+    "jp": "不合格",
+    "reading": "ふごうかく",
+    "id": "Tidak lolos standar / gagal"
+  },
+  {
+    "jp": "原因究明",
+    "reading": "げんいんきゅうめい",
+    "id": "Penyelidikan penyebab masalah"
+  },
+  {
+    "jp": "再発防止",
+    "reading": "さいはつぼうし",
+    "id": "Pencegahan pengulangan kejadian"
+  },
+  {
+    "jp": "合否判定",
+    "reading": "ごうひはんてい",
+    "id": "Penentuan lolos atau tidak"
+  },
+  {
+    "jp": "出荷検査",
+    "reading": "しゅっかけんさ",
+    "id": "Inspeksi sebelum pengiriman"
+  },
+  {
+    "jp": "製品のサンプルの保管",
+    "reading": "せいひんのさんぷるのほかん",
+    "id": "Penyimpanan sampel produk"
+  },
+  {
+    "jp": "微生物の検査",
+    "reading": "びせいぶつのけんさ",
+    "id": "Pemeriksaan mikrobiologi produk"
+  },
+  {
+    "jp": "一般生菌数",
+    "reading": "いっぱんせいきんすう",
+    "id": "Jumlah bakteri total (TPC)"
+  },
+  {
+    "jp": "大腸菌",
+    "reading": "だいちょうきん",
+    "id": "Bakteri E. coli"
+  },
+  {
+    "jp": "大腸菌群",
+    "reading": "だいちょうきんぐん",
+    "id": "Kelompok bakteri koliform"
+  },
+  {
+    "jp": "法律で微生物検査の義務がある食品",
+    "reading": "ほうりつでびせいぶつけんさのぎむがあるしょくひん",
+    "id": "Makanan yang wajib diuji mikrobiologi oleh hukum"
+  },
+  {
+    "jp": "自主的におこなう微生物検査",
+    "reading": "じしゅてきにおこなうびせいぶつけんさ",
+    "id": "Pemeriksaan mikrobiologi yang dilakukan secara mandiri"
+  },
+  {
+    "jp": "テストピースを使って確認する",
+    "reading": "てすとぴーすをつかってかくにんする",
+    "id": "Melakukan pengecekan menggunakan test piece"
+  },
+  {
+    "jp": "正常に機能していることを確認する",
+    "reading": "せいじょうにきのうしていることをかくにんする",
+    "id": "Memastikan berfungsi dengan normal"
+  },
+  {
+    "jp": "品質管理",
+    "reading": "ひんしつかんり",
+    "id": "Manajemen kualitas"
+  },
+  {
+    "jp": "品質保証",
+    "reading": "ひんしつほしょう",
+    "id": "Jaminan kualitas"
+  },
+  {
+    "jp": "品質基準",
+    "reading": "ひんしつきじゅん",
+    "id": "Standar kualitas"
+  },
+  {
+    "jp": "品質検査",
+    "reading": "ひんしつけんさ",
+    "id": "Inspeksi kualitas"
+  },
+  {
+    "jp": "官能検査",
+    "reading": "かんのうけんさ",
+    "id": "Uji organoleptik / sensori"
+  },
+  {
+    "jp": "外観検査",
+    "reading": "がいかんけんさ",
+    "id": "Inspeksi visual / penampakan"
+  },
+  {
+    "jp": "重量検査",
+    "reading": "じゅうりょうけんさ",
+    "id": "Pemeriksaan berat"
+  },
+  {
+    "jp": "寸法検査",
+    "reading": "すんぽうけんさ",
+    "id": "Pemeriksaan dimensi / ukuran"
+  },
+  {
+    "jp": "色の確認",
+    "reading": "いろのかくにん",
+    "id": "Pengecekan warna"
+  },
+  {
+    "jp": "においの確認",
+    "reading": "においのかくにん",
+    "id": "Pengecekan aroma / bau"
+  },
+  {
+    "jp": "味の確認",
+    "reading": "あじのかくにん",
+    "id": "Pengecekan rasa"
+  },
+  {
+    "jp": "食感の確認",
+    "reading": "しょっかんのかくにん",
+    "id": "Pengecekan tekstur makanan"
+  },
+  {
+    "jp": "異物混入の確認",
+    "reading": "いぶつこんにゅうのかくにん",
+    "id": "Pengecekan adanya benda asing"
+  },
+  {
+    "jp": "包装の確認",
+    "reading": "ほうそうのかくにん",
+    "id": "Pengecekan kemasan"
+  },
+  {
+    "jp": "ラベルの確認",
+    "reading": "らべるのかくにん",
+    "id": "Pengecekan label"
+  },
+  {
+    "jp": "規格外品",
+    "reading": "きかくがいひん",
+    "id": "Produk di luar spesifikasi"
+  },
+  {
+    "jp": "リワーク",
+    "reading": "りわーく",
+    "id": "Pengerjaan ulang / rework"
+  },
+  {
+    "jp": "選別作業",
+    "reading": "せんべつさぎょう",
+    "id": "Pekerjaan sortir / pemilahan"
+  },
+  {
+    "jp": "トレーサビリティシステム",
+    "reading": "とれーさびりてぃしすてむ",
+    "id": "Sistem keterlacakan produk"
+  },
+  {
+    "jp": "製品回収手順",
+    "reading": "せいひんかいしゅうてじゅん",
+    "id": "Prosedur penarikan produk (recall)"
+  }
+]
