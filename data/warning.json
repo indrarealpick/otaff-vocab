@@ -1,0 +1,177 @@
+[
+  {
+    "jp": "安全標識",
+    "reading": "あんぜんひょうしき",
+    "id": "Rambu keselamatan"
+  },
+  {
+    "jp": "立入禁止",
+    "reading": "たちいりきんし",
+    "id": "Dilarang masuk"
+  },
+  {
+    "jp": "開放厳禁",
+    "reading": "かいほうげんきん",
+    "id": "Dilarang membuka"
+  },
+  {
+    "jp": "はさまれ注意",
+    "reading": "はさまれちゅうい",
+    "id": "Hati-hati terjepit"
+  },
+  {
+    "jp": "やけど注意",
+    "reading": "やけどちゅうい",
+    "id": "Hati-hati luka bakar"
+  },
+  {
+    "jp": "高温注意",
+    "reading": "こうおんちゅうい",
+    "id": "Hati-hati suhu tinggi"
+  },
+  {
+    "jp": "足元注意",
+    "reading": "あしもとちゅうい",
+    "id": "Hati-hati langkah kaki / lantai licin"
+  },
+  {
+    "jp": "頭上注意",
+    "reading": "ずじょうちゅうい",
+    "id": "Hati-hati kepala (benda di atas)"
+  },
+  {
+    "jp": "転倒注意",
+    "reading": "てんとうちゅうい",
+    "id": "Hati-hati jatuh / tergelincir"
+  },
+  {
+    "jp": "転落注意",
+    "reading": "てんらくちゅうい",
+    "id": "Hati-hati jatuh dari ketinggian"
+  },
+  {
+    "jp": "切断注意",
+    "reading": "せつだんちゅうい",
+    "id": "Hati-hati terpotong"
+  },
+  {
+    "jp": "感電注意",
+    "reading": "かんでんちゅうい",
+    "id": "Hati-hati sengatan listrik"
+  },
+  {
+    "jp": "回転物に手を出すな",
+    "reading": "かいてんぶつにてをだすな",
+    "id": "Jangan masukkan tangan ke benda berputar"
+  },
+  {
+    "jp": "危険",
+    "reading": "きけん",
+    "id": "Berbahaya / bahaya"
+  },
+  {
+    "jp": "注意",
+    "reading": "ちゅうい",
+    "id": "Peringatan / hati-hati"
+  },
+  {
+    "jp": "禁止",
+    "reading": "きんし",
+    "id": "Dilarang"
+  },
+  {
+    "jp": "ゴーグル着用",
+    "reading": "ごーぐるちゃくよう",
+    "id": "Wajib pakai gogel"
+  },
+  {
+    "jp": "主な安全標識",
+    "reading": "おもなあんぜんひょうしき",
+    "id": "Rambu keselamatan utama"
+  },
+  {
+    "jp": "入ることを禁止する標識",
+    "reading": "はいることをきんしするひょうしき",
+    "id": "Rambu dilarang masuk"
+  },
+  {
+    "jp": "走ることを禁止する標識",
+    "reading": "はしることをきんしするひょうしき",
+    "id": "Rambu dilarang berlari"
+  },
+  {
+    "jp": "手で触れることを禁止する標識",
+    "reading": "てでふれることをきんしするひょうしき",
+    "id": "Rambu dilarang menyentuh dengan tangan"
+  },
+  {
+    "jp": "はさまれる危険を知らせる標識",
+    "reading": "はさまれるきけんをしらせるひょうしき",
+    "id": "Rambu peringatan bahaya terjepit"
+  },
+  {
+    "jp": "やけどをする危険を知らせる標識",
+    "reading": "やけどをするきけんをしらせるひょうしき",
+    "id": "Rambu peringatan bahaya luka bakar"
+  },
+  {
+    "jp": "転ぶ危険を知らせる標識",
+    "reading": "ころぶきけんをしらせるひょうしき",
+    "id": "Rambu peringatan bahaya terjatuh"
+  },
+  {
+    "jp": "転落する危険を知らせる標識",
+    "reading": "てんらくするきけんをしらせるひょうしき",
+    "id": "Rambu peringatan bahaya jatuh dari ketinggian"
+  },
+  {
+    "jp": "切断する危険を知らせる標識",
+    "reading": "せつだんするきけんをしらせるひょうしき",
+    "id": "Rambu peringatan bahaya terpotong"
+  },
+  {
+    "jp": "機械に巻き込まれる危険を知らせる標識",
+    "reading": "きかいにまきこまれるきけんをしらせるひょうしき",
+    "id": "Rambu peringatan bahaya terseret mesin"
+  },
+  {
+    "jp": "感電する危険を知らせる標識",
+    "reading": "かんでんするきけんをしらせるひょうしき",
+    "id": "Rambu peringatan bahaya sengatan listrik"
+  },
+  {
+    "jp": "頭をぶつける危険を知らせる標識",
+    "reading": "あたまをぶつけるきけんをしらせるひょうしき",
+    "id": "Rambu peringatan bahaya membentur kepala"
+  },
+  {
+    "jp": "目を保護する必要があることを知らせる標識",
+    "reading": "めをほごするひつようがあることをしらせるひょうしき",
+    "id": "Rambu wajib pelindung mata"
+  },
+  {
+    "jp": "避難するための非常口の場所を知らせる標識",
+    "reading": "ひなんするためのひじょうぐちのばしょをしらせるひょうしき",
+    "id": "Rambu petunjuk lokasi pintu darurat evakuasi"
+  },
+  {
+    "jp": "消火器の場所を知らせる標識",
+    "reading": "しょうかきのばしょをしらせるひょうしき",
+    "id": "Rambu petunjuk lokasi alat pemadam kebakaran"
+  },
+  {
+    "jp": "ヘルメット着用",
+    "reading": "へるめっとちゃくよう",
+    "id": "Wajib pakai helm"
+  },
+  {
+    "jp": "点検中スイッチを入れるな",
+    "reading": "てんけんちゅうすいっちをいれるな",
+    "id": "Jangan nyalakan mesin saat sedang diperiksa"
+  },
+  {
+    "jp": "運転中手を入れるな",
+    "reading": "うんてんちゅうてをいれるな",
+    "id": "Jangan masukkan tangan saat mesin berjalan"
+  }
+]
