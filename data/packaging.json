@@ -1,0 +1,217 @@
+[
+  {
+    "jp": "充填",
+    "reading": "じゅうてん",
+    "id": "Pengisian (filling)"
+  },
+  {
+    "jp": "包装",
+    "reading": "ほうそう",
+    "id": "Pengemasan"
+  },
+  {
+    "jp": "賞味期限",
+    "reading": "しょうみきげん",
+    "id": "Tanggal terbaik sebelum (best before)"
+  },
+  {
+    "jp": "消費期限",
+    "reading": "しょうひきげん",
+    "id": "Tanggal habis pakai (use by)"
+  },
+  {
+    "jp": "表示",
+    "reading": "ひょうじ",
+    "id": "Pelabelan / keterangan produk"
+  },
+  {
+    "jp": "真空包装",
+    "reading": "しんくうほうそう",
+    "id": "Kemasan vakum"
+  },
+  {
+    "jp": "脱酸素剤",
+    "reading": "だつさんそざい",
+    "id": "Penyerap oksigen"
+  },
+  {
+    "jp": "乾燥剤",
+    "reading": "かんそうざい",
+    "id": "Silika gel / pengering"
+  },
+  {
+    "jp": "印字",
+    "reading": "いんじ",
+    "id": "Pencetakan tanggal / kode"
+  },
+  {
+    "jp": "袋",
+    "reading": "ふくろ",
+    "id": "Kantung / plastik / karung"
+  },
+  {
+    "jp": "容器",
+    "reading": "ようき",
+    "id": "Wadah / kontainer"
+  },
+  {
+    "jp": "段ボール",
+    "reading": "だんぼーる",
+    "id": "Kardus / karton"
+  },
+  {
+    "jp": "ボトル",
+    "reading": "ぼとる",
+    "id": "Botol"
+  },
+  {
+    "jp": "キャップ",
+    "reading": "きゃっぷ",
+    "id": "Tutup botol"
+  },
+  {
+    "jp": "成分表示",
+    "reading": "せいぶんひょうじ",
+    "id": "Daftar kandungan / label komposisi"
+  },
+  {
+    "jp": "包装材料",
+    "reading": "ほうそうざいりょう",
+    "id": "Bahan kemasan"
+  },
+  {
+    "jp": "包装ラインの機械",
+    "reading": "ほうそうらいんのきかい",
+    "id": "Mesin di lini pengemasan"
+  },
+  {
+    "jp": "充填や包装が終わった容器・包装",
+    "reading": "じゅうてんやほうそうがおわったようき・ほうそう",
+    "id": "Wadah dan kemasan setelah pengisian"
+  },
+  {
+    "jp": "賞味期限や消費期限の数字を間違えてしまうミス",
+    "reading": "しょうみきげんやしょうひきげんのすうじをまちがえてしまうみす",
+    "id": "Kesalahan angka tanggal kadaluarsa"
+  },
+  {
+    "jp": "印字された内容が正しいことを別の人が確認する",
+    "reading": "いんじされたないようがただしいことをべつのひとがかくにんする",
+    "id": "Konfirmasi isi cetakan oleh orang lain"
+  },
+  {
+    "jp": "小さな穴が開いていないか検査する",
+    "reading": "ちいさなあながあいていないかけんさする",
+    "id": "Periksa apakah ada lubang kecil pada kemasan"
+  },
+  {
+    "jp": "中身がもれたりしないか検査する",
+    "reading": "なかみがもれたりしないかけんさする",
+    "id": "Periksa apakah isi tidak bocor"
+  },
+  {
+    "jp": "ガス置換包装",
+    "reading": "がすちかんほうそう",
+    "id": "Kemasan dengan penggantian gas (MAP)"
+  },
+  {
+    "jp": "シュリンク包装",
+    "reading": "しゅりんくほうそう",
+    "id": "Kemasan shrink wrap"
+  },
+  {
+    "jp": "トレー包装",
+    "reading": "とれーほうそう",
+    "id": "Kemasan dengan tray"
+  },
+  {
+    "jp": "スタンドパウチ",
+    "reading": "すたんどぱうち",
+    "id": "Kemasan kantung berdiri"
+  },
+  {
+    "jp": "ラベル貼り",
+    "reading": "らべるはり",
+    "id": "Penempelan label"
+  },
+  {
+    "jp": "バーコード",
+    "reading": "ばーこーど",
+    "id": "Barcode"
+  },
+  {
+    "jp": "内容量",
+    "reading": "ないようりょう",
+    "id": "Isi bersih / netto"
+  },
+  {
+    "jp": "固形量",
+    "reading": "こけいりょう",
+    "id": "Bobot isi padat"
+  },
+  {
+    "jp": "原材料名",
+    "reading": "げんざいりょうめい",
+    "id": "Nama bahan baku (pada label)"
+  },
+  {
+    "jp": "アレルゲン表示",
+    "reading": "あれるげんひょうじ",
+    "id": "Pelabelan alergen"
+  },
+  {
+    "jp": "栄養成分表示",
+    "reading": "えいようせいぶんひょうじ",
+    "id": "Label informasi nilai gizi"
+  },
+  {
+    "jp": "製造者名",
+    "reading": "せいぞうしゃめい",
+    "id": "Nama produsen (pada label)"
+  },
+  {
+    "jp": "製造所住所",
+    "reading": "せいぞうしょじゅうしょ",
+    "id": "Alamat pabrik produsen"
+  },
+  {
+    "jp": "封函",
+    "reading": "ふうかん",
+    "id": "Penutupan / sealing kardus"
+  },
+  {
+    "jp": "梱包",
+    "reading": "こんぽう",
+    "id": "Pengemasan / packing"
+  },
+  {
+    "jp": "緩衝材",
+    "reading": "かんしょうざい",
+    "id": "Bahan bantalan / cushion"
+  },
+  {
+    "jp": "テープ留め",
+    "reading": "てーぷどめ",
+    "id": "Perekatan dengan selotip"
+  },
+  {
+    "jp": "出荷ラベル",
+    "reading": "しゅっからべる",
+    "id": "Label pengiriman"
+  },
+  {
+    "jp": "賞味期限の印字",
+    "reading": "しょうみきげんのいんじ",
+    "id": "Pencetakan tanggal best before"
+  },
+  {
+    "jp": "消費期限の印字",
+    "reading": "しょうひきげんのいんじ",
+    "id": "Pencetakan tanggal use by"
+  },
+  {
+    "jp": "ロット番号の印字",
+    "reading": "ろっとばんごうのいんじ",
+    "id": "Pencetakan nomor lot"
+  }
+]
