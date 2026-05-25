@@ -1,0 +1,162 @@
+[
+  {
+    "jp": "危害要因",
+    "reading": "きがいよういん",
+    "id": "Faktor bahaya"
+  },
+  {
+    "jp": "重要管理点",
+    "reading": "じゅうようかんりてん",
+    "id": "Titik kendali kritis (CCP)"
+  },
+  {
+    "jp": "管理基準",
+    "reading": "かんりきじゅん",
+    "id": "Standar pengendalian"
+  },
+  {
+    "jp": "改善措置",
+    "reading": "かいぜんそち",
+    "id": "Tindakan perbaikan"
+  },
+  {
+    "jp": "記録",
+    "reading": "きろく",
+    "id": "Pencatatan / rekaman"
+  },
+  {
+    "jp": "物理的危害要因",
+    "reading": "ぶつりてききがいよういん",
+    "id": "Faktor bahaya fisik"
+  },
+  {
+    "jp": "化学的危害要因",
+    "reading": "かがくてききがいよういん",
+    "id": "Faktor bahaya kimia"
+  },
+  {
+    "jp": "生物的危害要因",
+    "reading": "せいぶつてききがいよういん",
+    "id": "Faktor bahaya biologis"
+  },
+  {
+    "jp": "HACCP",
+    "reading": "はさっぷ",
+    "id": "HACCP (Hazard Analysis Critical Control Point)"
+  },
+  {
+    "jp": "危害要因分析",
+    "reading": "きがいよういんぶんせき",
+    "id": "Analisis bahaya"
+  },
+  {
+    "jp": "ハザード",
+    "reading": "はざーど",
+    "id": "Bahaya / hazard"
+  },
+  {
+    "jp": "ハザード分析",
+    "reading": "はざーどぶんせき",
+    "id": "Analisis hazard"
+  },
+  {
+    "jp": "逸脱",
+    "reading": "いつだつ",
+    "id": "Penyimpangan dari standar"
+  },
+  {
+    "jp": "モニタリング",
+    "reading": "もにたりんぐ",
+    "id": "Pemantauan / monitoring"
+  },
+  {
+    "jp": "検証",
+    "reading": "けんしょう",
+    "id": "Verifikasi"
+  },
+  {
+    "jp": "是正措置",
+    "reading": "ぜせいそち",
+    "id": "Tindakan korektif"
+  },
+  {
+    "jp": "廃棄",
+    "reading": "はいき",
+    "id": "Pembuangan / pemusnahan produk"
+  },
+  {
+    "jp": "水分活性",
+    "reading": "すいぶんかっせい",
+    "id": "Aktivitas air (Aw)"
+  },
+  {
+    "jp": "ハザード分析重要管理点",
+    "reading": "はざーどぶんせきじゅうようかんりてん",
+    "id": "Analisis bahaya dan titik kendali kritis"
+  },
+  {
+    "jp": "衛生管理計画",
+    "reading": "えいせいかんりけいかく",
+    "id": "Rencana manajemen higiene"
+  },
+  {
+    "jp": "HACCPプラン",
+    "reading": "はっさっぷぷらん",
+    "id": "Rencana HACCP"
+  },
+  {
+    "jp": "HACCPによる衛生管理",
+    "reading": "はっさっぷによるえいせいかんり",
+    "id": "Manajemen higiene berbasis HACCP"
+  },
+  {
+    "jp": "重要管理点の決定",
+    "reading": "じゅうようかんりてんのけってい",
+    "id": "Penetapan titik kendali kritis"
+  },
+  {
+    "jp": "管理基準の設定",
+    "reading": "かんりきじゅんのせってい",
+    "id": "Penetapan standar pengendalian"
+  },
+  {
+    "jp": "監視方法の設定",
+    "reading": "かんしほうほうのせってい",
+    "id": "Penetapan metode pemantauan"
+  },
+  {
+    "jp": "改善措置の設定",
+    "reading": "かいぜんそちのせってい",
+    "id": "Penetapan tindakan perbaikan"
+  },
+  {
+    "jp": "検証方法の設定",
+    "reading": "けんしょうほうほうのせってい",
+    "id": "Penetapan metode verifikasi"
+  },
+  {
+    "jp": "記録の設定",
+    "reading": "きろくのせってい",
+    "id": "Penetapan sistem pencatatan"
+  },
+  {
+    "jp": "7原則",
+    "reading": "ななげんそく",
+    "id": "7 prinsip HACCP"
+  },
+  {
+    "jp": "管理基準からの逸脱",
+    "reading": "かんりきじゅんからのいつだつ",
+    "id": "Penyimpangan dari standar pengendalian"
+  },
+  {
+    "jp": "モニタリング記録",
+    "reading": "もにたりんぐきろく",
+    "id": "Catatan pemantauan"
+  },
+  {
+    "jp": "CCPモニタリング",
+    "reading": "しーしーぴーもにたりんぐ",
+    "id": "Pemantauan CCP"
+  }
+]
