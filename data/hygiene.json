@@ -1,0 +1,672 @@
+[
+  {
+    "jp": "食品衛生",
+    "reading": "しょくひんえいせい",
+    "id": "Higiene makanan"
+  },
+  {
+    "jp": "一般衛生管理",
+    "reading": "いっぱんえいせいかんり",
+    "id": "Manajemen higiene umum"
+  },
+  {
+    "jp": "手洗い",
+    "reading": "てあらい",
+    "id": "Mencuci tangan"
+  },
+  {
+    "jp": "清潔",
+    "reading": "せいけつ",
+    "id": "Kebersihan"
+  },
+  {
+    "jp": "細菌",
+    "reading": "さいきん",
+    "id": "Bakteri"
+  },
+  {
+    "jp": "ウイルス",
+    "reading": "ういるす",
+    "id": "Virus"
+  },
+  {
+    "jp": "カビ",
+    "reading": "かび",
+    "id": "Jamur"
+  },
+  {
+    "jp": "寄生虫",
+    "reading": "きせいちゅう",
+    "id": "Parasit"
+  },
+  {
+    "jp": "食中毒",
+    "reading": "しょくちゅうどく",
+    "id": "Keracunan makanan"
+  },
+  {
+    "jp": "食中毒菌",
+    "reading": "しょくちゅうどくきん",
+    "id": "Bakteri penyebab keracunan makanan"
+  },
+  {
+    "jp": "サルモネラ属菌",
+    "reading": "さるもねらぞくきん",
+    "id": "Bakteri Salmonella"
+  },
+  {
+    "jp": "カンピロバクター属菌",
+    "reading": "かんぴろばくたーぞくきん",
+    "id": "Bakteri Campylobacter"
+  },
+  {
+    "jp": "ノロウイルス",
+    "reading": "のろういるす",
+    "id": "Norovirus"
+  },
+  {
+    "jp": "アニサキス",
+    "reading": "あにさきす",
+    "id": "Anisakis (parasit ikan)"
+  },
+  {
+    "jp": "アレルギー",
+    "reading": "あれるぎー",
+    "id": "Alergi"
+  },
+  {
+    "jp": "アレルギー物質",
+    "reading": "あれるぎーぶっしつ",
+    "id": "Zat alergen"
+  },
+  {
+    "jp": "ヒスタミン",
+    "reading": "ひすたみん",
+    "id": "Histamin"
+  },
+  {
+    "jp": "ソラニン",
+    "reading": "そらにん",
+    "id": "Solanin (racun kentang)"
+  },
+  {
+    "jp": "交差汚染",
+    "reading": "こうさおせん",
+    "id": "Kontaminasi silang"
+  },
+  {
+    "jp": "区分衛生管理",
+    "reading": "くぶんえいせいかんり",
+    "id": "Manajemen higiene berbasis zona"
+  },
+  {
+    "jp": "ブラッシング",
+    "reading": "ぶらっしんぐ",
+    "id": "Penyikatan pakaian"
+  },
+  {
+    "jp": "健康チェック",
+    "reading": "けんこうちぇっく",
+    "id": "Pemeriksaan kesehatan harian"
+  },
+  {
+    "jp": "下痢",
+    "reading": "げり",
+    "id": "Diare"
+  },
+  {
+    "jp": "嘔吐",
+    "reading": "おうと",
+    "id": "Muntah"
+  },
+  {
+    "jp": "発熱",
+    "reading": "はつねつ",
+    "id": "Demam"
+  },
+  {
+    "jp": "症状",
+    "reading": "しょうじょう",
+    "id": "Gejala"
+  },
+  {
+    "jp": "腹痛",
+    "reading": "ふくつう",
+    "id": "Sakit perut"
+  },
+  {
+    "jp": "吐き気",
+    "reading": "はきけ",
+    "id": "Mual"
+  },
+  {
+    "jp": "アナフィラキシー",
+    "reading": "あなふぃらきしー",
+    "id": "Anafilaksis (reaksi alergi parah)"
+  },
+  {
+    "jp": "増殖",
+    "reading": "ぞうしょく",
+    "id": "Berkembang biak (bakteri)"
+  },
+  {
+    "jp": "汚染",
+    "reading": "おせん",
+    "id": "Kontaminasi"
+  },
+  {
+    "jp": "付着",
+    "reading": "ふちゃく",
+    "id": "Menempel / adhesi"
+  },
+  {
+    "jp": "死滅",
+    "reading": "しめつ",
+    "id": "Kematian bakteri"
+  },
+  {
+    "jp": "芽胞",
+    "reading": "がほう",
+    "id": "Spora bakteri"
+  },
+  {
+    "jp": "毒素",
+    "reading": "どくそ",
+    "id": "Racun / toksin"
+  },
+  {
+    "jp": "ボツリヌス菌",
+    "reading": "ぼつりぬすきん",
+    "id": "Bakteri Clostridium botulinum"
+  },
+  {
+    "jp": "セレウス菌",
+    "reading": "せれうすきん",
+    "id": "Bakteri Bacillus cereus"
+  },
+  {
+    "jp": "ウェルシュ菌",
+    "reading": "うぇるしゅきん",
+    "id": "Bakteri Clostridium perfringens"
+  },
+  {
+    "jp": "腸管出血性大腸菌",
+    "reading": "ちょうかんしゅっけつせいだいちょうきん",
+    "id": "Bakteri E. coli O157 (penghasil racun)"
+  },
+  {
+    "jp": "黄色ブドウ球菌",
+    "reading": "おうしょくぶどうきゅうきん",
+    "id": "Staphylococcus aureus"
+  },
+  {
+    "jp": "病原性微生物",
+    "reading": "びょうげんせいびせいぶつ",
+    "id": "Mikroorganisme patogen"
+  },
+  {
+    "jp": "腸炎ビブリオ",
+    "reading": "ちょうえんびぶりお",
+    "id": "Vibrio parahaemolyticus"
+  },
+  {
+    "jp": "リステリア",
+    "reading": "りすてりあ",
+    "id": "Bakteri Listeria"
+  },
+  {
+    "jp": "つけない",
+    "reading": "つけない",
+    "id": "Jangan kontaminasikan"
+  },
+  {
+    "jp": "増やさない",
+    "reading": "ふやさない",
+    "id": "Jangan biarkan berkembang biak"
+  },
+  {
+    "jp": "やっつける",
+    "reading": "やっつける",
+    "id": "Bunuh kuman / musnahkan"
+  },
+  {
+    "jp": "手洗い場",
+    "reading": "てあらいば",
+    "id": "Tempat cuci tangan"
+  },
+  {
+    "jp": "害虫",
+    "reading": "がいちゅう",
+    "id": "Hama serangga"
+  },
+  {
+    "jp": "ネズミ",
+    "reading": "ねずみ",
+    "id": "Tikus"
+  },
+  {
+    "jp": "ゴキブリ",
+    "reading": "ごきぶり",
+    "id": "Kecoa"
+  },
+  {
+    "jp": "防虫",
+    "reading": "ぼうちゅう",
+    "id": "Pencegahan hama serangga"
+  },
+  {
+    "jp": "体調不良",
+    "reading": "たいちょうふりょう",
+    "id": "Kondisi badan tidak sehat"
+  },
+  {
+    "jp": "感染症",
+    "reading": "かんせんしょう",
+    "id": "Penyakit menular / infeksi"
+  },
+  {
+    "jp": "就業制限",
+    "reading": "しゅうぎょうせいげん",
+    "id": "Pembatasan kerja (saat sakit)"
+  },
+  {
+    "jp": "嫌気性",
+    "reading": "けんきせい",
+    "id": "Anaerob (tanpa oksigen)"
+  },
+  {
+    "jp": "好気性",
+    "reading": "こうきせい",
+    "id": "Aerob (butuh oksigen)"
+  },
+  {
+    "jp": "潜伏期間",
+    "reading": "せんぷくきかん",
+    "id": "Masa inkubasi penyakit"
+  },
+  {
+    "jp": "原因食品",
+    "reading": "げんいんしょくひん",
+    "id": "Makanan penyebab keracunan"
+  },
+  {
+    "jp": "体温",
+    "reading": "たいおん",
+    "id": "Suhu tubuh"
+  },
+  {
+    "jp": "爪",
+    "reading": "つめ",
+    "id": "Kuku"
+  },
+  {
+    "jp": "皮膚",
+    "reading": "ひふ",
+    "id": "Kulit"
+  },
+  {
+    "jp": "血液",
+    "reading": "けつえき",
+    "id": "Darah"
+  },
+  {
+    "jp": "エンテロトキシン",
+    "reading": "えんてろときしん",
+    "id": "Enterotoksin (toksin usus)"
+  },
+  {
+    "jp": "二次汚染",
+    "reading": "にじおせん",
+    "id": "Kontaminasi sekunder"
+  },
+  {
+    "jp": "嘔吐物",
+    "reading": "おうとぶつ",
+    "id": "Muntahan"
+  },
+  {
+    "jp": "使い捨て",
+    "reading": "つかいすて",
+    "id": "Sekali pakai / disposable"
+  },
+  {
+    "jp": "空気感染",
+    "reading": "くうきかんせん",
+    "id": "Penularan melalui udara"
+  },
+  {
+    "jp": "接触感染",
+    "reading": "せっしょくかんせん",
+    "id": "Penularan melalui kontak"
+  },
+  {
+    "jp": "経口感染",
+    "reading": "けいこうかんせん",
+    "id": "Penularan melalui mulut"
+  },
+  {
+    "jp": "腸管",
+    "reading": "ちょうかん",
+    "id": "Saluran usus"
+  },
+  {
+    "jp": "食品製造の衛生管理",
+    "reading": "しょくひんせいぞうのえいせいかんり",
+    "id": "Manajemen higiene produksi makanan"
+  },
+  {
+    "jp": "危害要因が含まれないように",
+    "reading": "きがいよういんがふくまれないように",
+    "id": "Agar tidak mengandung faktor bahaya"
+  },
+  {
+    "jp": "病気になったりケガをしたりする原因",
+    "reading": "びょうきになったりけがをしたりするげんいん",
+    "id": "Penyebab sakit atau cedera"
+  },
+  {
+    "jp": "食べた人が病気になったりケガをしないように食品を作る",
+    "reading": "たべたひとがびょうきになったりけがをしないようにしょくひんをつくる",
+    "id": "Membuat makanan agar yang memakannya tidak sakit atau cedera"
+  },
+  {
+    "jp": "汚染防止",
+    "reading": "おせんぼうし",
+    "id": "Pencegahan kontaminasi"
+  },
+  {
+    "jp": "微生物",
+    "reading": "びせいぶつ",
+    "id": "Mikroorganisme"
+  },
+  {
+    "jp": "病原性",
+    "reading": "びょうげんせい",
+    "id": "Patogenisitas / sifat patogen"
+  },
+  {
+    "jp": "食中毒の3原則",
+    "reading": "しょくちゅうどくのさんげんそく",
+    "id": "3 prinsip pencegahan keracunan makanan"
+  },
+  {
+    "jp": "ノロウイルスが原因の食中毒を予防するための4原則",
+    "reading": "のろういるすがげんいんのしょくちゅうどくをよぼうするためのよんげんそく",
+    "id": "4 prinsip pencegahan keracunan Norovirus"
+  },
+  {
+    "jp": "持ち込まない",
+    "reading": "もちこまない",
+    "id": "Jangan membawa masuk (kontaminan)"
+  },
+  {
+    "jp": "広げない",
+    "reading": "ひろげない",
+    "id": "Jangan menyebarkan (kontaminan)"
+  },
+  {
+    "jp": "持ち出さない",
+    "reading": "もちださない",
+    "id": "Jangan membawa keluar"
+  },
+  {
+    "jp": "汚染経路",
+    "reading": "おせんけいろ",
+    "id": "Jalur kontaminasi"
+  },
+  {
+    "jp": "二次汚染防止",
+    "reading": "にじおせんぼうし",
+    "id": "Pencegahan kontaminasi silang sekunder"
+  },
+  {
+    "jp": "嘔吐物の処理",
+    "reading": "おうとぶつのしょり",
+    "id": "Penanganan muntahan"
+  },
+  {
+    "jp": "アニサキス食中毒",
+    "reading": "あにさきすしょくちゅうどく",
+    "id": "Keracunan makanan akibat Anisakis"
+  },
+  {
+    "jp": "ヒスタミン食中毒",
+    "reading": "ひすたみんしょくちゅうどく",
+    "id": "Keracunan histamin"
+  },
+  {
+    "jp": "ソラニン中毒",
+    "reading": "そらにんちゅうどく",
+    "id": "Keracunan solanin"
+  },
+  {
+    "jp": "アレルギー反応",
+    "reading": "あれるぎーはんのう",
+    "id": "Reaksi alergi"
+  },
+  {
+    "jp": "アレルゲン",
+    "reading": "あれるげん",
+    "id": "Alergen"
+  },
+  {
+    "jp": "特定原材料に準ずるもの",
+    "reading": "とくていげんざいりょうにじゅんずるもの",
+    "id": "Bahan yang dianjurkan untuk dilabeli (alergen sekunder)"
+  },
+  {
+    "jp": "表示推奨",
+    "reading": "ひょうじすいしょう",
+    "id": "Pelabelan yang dianjurkan"
+  },
+  {
+    "jp": "アレルギー物質を含む原材料",
+    "reading": "あれるぎーぶっしつをふくむげんざいりょう",
+    "id": "Bahan baku yang mengandung alergen"
+  },
+  {
+    "jp": "調理器具の洗浄",
+    "reading": "ちょうりきぐのせんじょう",
+    "id": "Pencucian peralatan masak"
+  },
+  {
+    "jp": "正しい手洗いの方法",
+    "reading": "ただしいてあらいのほうほう",
+    "id": "Metode mencuci tangan yang benar"
+  },
+  {
+    "jp": "流水でぬらす",
+    "reading": "りゅうすいでぬらす",
+    "id": "Basahi dengan air mengalir"
+  },
+  {
+    "jp": "石鹸をつける",
+    "reading": "せっけんをつける",
+    "id": "Gunakan sabun"
+  },
+  {
+    "jp": "20秒以上もみ洗い",
+    "reading": "にじゅうびょういじょうもみあらい",
+    "id": "Gosok minimal 20 detik"
+  },
+  {
+    "jp": "流水で20秒以上すすぐ",
+    "reading": "りゅうすいでにじゅうびょういじょうすすぐ",
+    "id": "Bilas dengan air mengalir minimal 20 detik"
+  },
+  {
+    "jp": "アルコール消毒",
+    "reading": "あるこーるしょうどく",
+    "id": "Disinfeksi dengan alkohol"
+  },
+  {
+    "jp": "指輪や時計を外す",
+    "reading": "ゆびわやとけいをはずす",
+    "id": "Lepas cincin dan jam tangan"
+  },
+  {
+    "jp": "爪を短く切る",
+    "reading": "つめをみじかくきる",
+    "id": "Potong kuku pendek"
+  },
+  {
+    "jp": "残留農薬",
+    "reading": "ざんりゅうのうやく",
+    "id": "Residu pestisida"
+  },
+  {
+    "jp": "残留塩素",
+    "reading": "ざんりゅうえんそ",
+    "id": "Residu klorin"
+  },
+  {
+    "jp": "衛生的な取り扱い",
+    "reading": "えいせいてきなとりあつかい",
+    "id": "Penanganan yang higienis"
+  },
+  {
+    "jp": "清潔な状態",
+    "reading": "せいけつなじょうたい",
+    "id": "Kondisi bersih"
+  },
+  {
+    "jp": "不潔な状態",
+    "reading": "ふけつなじょうたい",
+    "id": "Kondisi kotor / tidak higienis"
+  },
+  {
+    "jp": "衛生的な環境",
+    "reading": "えいせいてきなかんきょう",
+    "id": "Lingkungan yang higienis"
+  },
+  {
+    "jp": "食品の汚染",
+    "reading": "しょくひんのおせん",
+    "id": "Kontaminasi makanan"
+  },
+  {
+    "jp": "汚染リスク",
+    "reading": "おせんりすく",
+    "id": "Risiko kontaminasi"
+  },
+  {
+    "jp": "交差汚染防止",
+    "reading": "こうさおせんぼうし",
+    "id": "Pencegahan kontaminasi silang"
+  },
+  {
+    "jp": "手指の衛生",
+    "reading": "てしのえいせい",
+    "id": "Higiene tangan / jari"
+  },
+  {
+    "jp": "爪の管理",
+    "reading": "つめのかんり",
+    "id": "Perawatan kuku"
+  },
+  {
+    "jp": "傷の管理",
+    "reading": "きずのかんり",
+    "id": "Penanganan luka pada pekerja"
+  },
+  {
+    "jp": "絆創膏",
+    "reading": "ばんそうこう",
+    "id": "Plester luka"
+  },
+  {
+    "jp": "色付き絆創膏",
+    "reading": "いろつきばんそうこう",
+    "id": "Plester luka berwarna (mudah terdeteksi)"
+  },
+  {
+    "jp": "指サック",
+    "reading": "ゆびさっく",
+    "id": "Sarung jari pelindung luka"
+  },
+  {
+    "jp": "体調管理",
+    "reading": "たいちょうかんり",
+    "id": "Manajemen kondisi kesehatan pekerja"
+  },
+  {
+    "jp": "健康診断",
+    "reading": "けんこうしんだん",
+    "id": "Pemeriksaan kesehatan berkala"
+  },
+  {
+    "jp": "腸内細菌検査",
+    "reading": "ちょうないさいきんけんさ",
+    "id": "Pemeriksaan bakteri usus"
+  },
+  {
+    "jp": "保菌者",
+    "reading": "ほきんしゃ",
+    "id": "Pembawa kuman / carrier"
+  },
+  {
+    "jp": "ノロウイルスの検査",
+    "reading": "のろういるすのけんさ",
+    "id": "Pemeriksaan Norovirus"
+  },
+  {
+    "jp": "吐き気がする",
+    "reading": "はきけがする",
+    "id": "Merasa mual"
+  },
+  {
+    "jp": "下痢が続く",
+    "reading": "げりがつづく",
+    "id": "Diare berlanjut / terus-menerus"
+  },
+  {
+    "jp": "発症",
+    "reading": "はっしょう",
+    "id": "Onset penyakit / mulai bergejala"
+  },
+  {
+    "jp": "回復",
+    "reading": "かいふく",
+    "id": "Pemulihan / sembuh"
+  },
+  {
+    "jp": "就業可能",
+    "reading": "しゅうぎょうかのう",
+    "id": "Boleh bekerja kembali"
+  },
+  {
+    "jp": "出勤停止",
+    "reading": "しゅっきんていし",
+    "id": "Larangan masuk kerja (saat sakit)"
+  },
+  {
+    "jp": "手洗いの徹底",
+    "reading": "てあらいのてってい",
+    "id": "Pencucian tangan yang menyeluruh"
+  },
+  {
+    "jp": "手洗い設備",
+    "reading": "てあらいせつび",
+    "id": "Fasilitas cuci tangan"
+  },
+  {
+    "jp": "ペーパータオル",
+    "reading": "ぺーぱーたおる",
+    "id": "Tisu kertas pengering tangan"
+  },
+  {
+    "jp": "エアータオル",
+    "reading": "えあーたおる",
+    "id": "Hand dryer / pengering tangan udara"
+  },
+  {
+    "jp": "爪ブラシ",
+    "reading": "つめぶらし",
+    "id": "Sikat kuku"
+  },
+  {
+    "jp": "手洗いチェック",
+    "reading": "てあらいちぇっく",
+    "id": "Pemeriksaan kualitas cuci tangan"
+  }
+]
